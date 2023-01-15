@@ -1,4 +1,5 @@
 -- Corona 8 New Tonemapper struct wrapper
+-- https://github.com/mohseni-mr/Corona-Tone-Mapping-Wrapper/
 -- version : 1.0
 -- 2022-july-10
 -- =========================================
@@ -10,7 +11,8 @@
 -- twitter.com/_mohseni
 -- www.facebook.com/mohamadreza.mohseni/
 -- =========================================
--- License: GNU General Public License v3.0 
+-- MIT License
+-- https://github.com/mohseni-mr/Corona-Tone-Mapping-Wrapper/blob/main/LICENSE
 -- =========================================
 
 struct crnToneMapping (
