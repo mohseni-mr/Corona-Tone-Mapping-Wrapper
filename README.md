@@ -5,17 +5,18 @@
 Hello all, this is a wrapper `(Tone Mapping Pipeline Wrapper.ms)` for new Corona Renderer 8 (and upper versions) tone mapping for maxscrip which is a not easy to work with. So, here is my 3ds Max scrip codes to make it easier for others to use this new feature.
 
 
-
 [![version](https://img.shields.io/badge/version-1.0-blue)](https://mohseni.info/bio/) 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/mohseni-mr/Corona-Tone-Mapping-Wrapper/blob/main/LICENSE)
 
 [![Corona Version](https://img.shields.io/badge/Corona%20Renderer-v8.0%20and%20up-red)](https://corona-renderer.com/)
+
 ## 👨🏻‍💻 Author
 
 - [@mohseni-mr](https://github.com/mohseni-mr)
 if you want to get in touch with me through other platforms please, use below link
 [![social landing page and website](https://img.shields.io/badge/my_social_langind_page-FF0000?style=for-the-badge)](https://mohseni.info/bio/)
+
 ## Features
 
 - Delete all tone mapping operators
@@ -30,6 +31,7 @@ if you want to get in touch with me through other platforms please, use below li
 - Add operator as last one
 - Add operator to a specific place on the list
 - Delete operator to a specific place on the list
+
 ## Function Reference
 
 you can use this wrapper pretty easily. 
@@ -76,7 +78,5 @@ or just comment on Corona Renderer forums:
 
 
 ## Acknowledgement
-
-
 
  - [official Corona Renderer maxscript wiki page](https://wiki.corona-renderer.com/maxscript)
