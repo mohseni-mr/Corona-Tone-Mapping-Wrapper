@@ -15,6 +15,7 @@ Hello all, this is a wrapper `(Tone Mapping Pipeline Wrapper.ms)` for new Corona
 
 - [@mohseni-mr](https://github.com/mohseni-mr)
 if you want to get in touch with me through other platforms please, use below link
+
 [![social landing page and website](https://img.shields.io/badge/my_social_langind_page-FF0000?style=for-the-badge)](https://mohseni.info/bio/)
 
 ## Features
@@ -73,6 +74,7 @@ If you have any feedback, please reach out to me through my email:
 mohamad.r.mohseni@gmail.com
 
 or just comment on Corona Renderer forums:
+
 [![Forums](https://img.shields.io/badge/-Topic%20on%20Corona%20Renderer%20Forums-orange)](https://forum.corona-renderer.com/index.php?topic=37407.0)
 
 
