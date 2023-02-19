@@ -5,7 +5,7 @@
 Hello all, this is a wrapper `(Tone Mapping Pipeline Wrapper.ms)` for new Corona Renderer 8 (and upper versions) tone mapping for maxscrip which is a not easy to work with. So, here is my 3ds Max scrip codes to make it easier for others to use this new feature.
 
 
-[![version](https://img.shields.io/badge/version-1.0-blue)](https://mohseni.info/bio/) 
+[![version](https://img.shields.io/badge/version-1.0-blue)](https://bio.mohseni.info/) 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/mohseni-mr/Corona-Tone-Mapping-Wrapper/blob/main/LICENSE)
 
